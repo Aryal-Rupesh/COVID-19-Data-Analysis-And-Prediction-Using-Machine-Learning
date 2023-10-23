@@ -1,5 +1,4 @@
-# Project-I-BE-Computer-Pokhara-University 
-COVID-19-Data-Analysis-And-Prediction-Using-Machine-Learning
+## COVID-19-Data-Analysis-And-Prediction-Using-Machine-Learning
 
 ## Project Overview
 
